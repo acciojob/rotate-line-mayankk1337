@@ -6,8 +6,10 @@ body {
   margin: 0;
 }
 #line{
+	position:absolute;
 	width: 200px;
     height: 4px;
     background-color: rgb(0, 0, 0);
     transform-origin: center;
+	
 }
